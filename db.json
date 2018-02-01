@@ -1,4 +1,4 @@
-{"name":"departements","data":
+{"departements":
 [
 {"id":"1","nom":"Dakar","region_id":"1"},
 {"id":"2","nom":"Guediawaye","region_id":"1"},
@@ -11,11 +11,11 @@
 {"id":"9","nom":"Foundiougne","region_id":"3"},
 {"id":"10","nom":"Gossas","region_id":"3"},
 {"id":"11","nom":"Kaolack","region_id":"4"},
-{"id":"12","nom":"Guinguin\u00e9o","region_id":"4"},
+{"id":"12","nom":"Guinguinéo","region_id":"4"},
 {"id":"13","nom":"Nioro du Rip","region_id":"4"},
 {"id":"14","nom":"Kolda","region_id":"5"},
 {"id":"15","nom":"Velingara","region_id":"5"},
-{"id":"16","nom":"M\u00e9dina Yoro Foulah","region_id":"5"},
+{"id":"16","nom":"Médina Yoro Foulah","region_id":"5"},
 {"id":"17","nom":"Kebemer","region_id":"6"},
 {"id":"18","nom":"Linguere","region_id":"6"},
 {"id":"19","nom":"Louga","region_id":"6"},
@@ -46,8 +46,7 @@
 {"id":"44","nom":"Goudomp","region_id":"14"},
 {"id":"45","nom":"Sedhiou","region_id":"14"}
 ]
-}
-,{"name":"regions","data":
+,"regions":
 [
 {"id":"1","nom":"Dakar"},
 {"id":"2","nom":"Diourbel"},
