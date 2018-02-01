@@ -1,7 +1,5 @@
 [
-{"type":"header","version":"4.7.4","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"ponda_senregion"},
-{"type":"table","name":"departements","database":"ponda_senregion","data":
+{"name":"departements","data":
 [
 {"id":"1","nom":"Dakar","region_id":"1"},
 {"id":"2","nom":"Guediawaye","region_id":"1"},
@@ -50,7 +48,7 @@
 {"id":"45","nom":"Sedhiou","region_id":"14"}
 ]
 }
-,{"type":"table","name":"regions","database":"ponda_senregion","data":
+,{"name":"regions","data":
 [
 {"id":"1","nom":"Dakar"},
 {"id":"2","nom":"Diourbel"},
